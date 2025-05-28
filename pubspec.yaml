@@ -56,11 +56,13 @@ flutter:
   assets:
       - assets/images/main.jpg
       - assets/images/levels.jpg
-      - assets/images/AnimationSheet_Character.png
+      - assets/images/Character.png
       - assets/images/long_metal_spike_01.png
       - assets/images/long_metal_spike_02.png
       - assets/images/long_metal_spike_03.png
       - assets/images/doors.png
+      - assets/images/background.png
+
 
 
   # An image asset can refer to one or more resolution-specific "variants", see
